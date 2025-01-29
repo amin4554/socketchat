@@ -1,4 +1,4 @@
-# Socket Chat Application
+# Socket Chat
 
 A socket-based chatroom application built with Python. It allows users to sign up, log in, send messages, and manage friend requests in real-time. The chatroom supports multiple clients and enables seamless communication between users using a combination of **Tkinter** for the graphical user interface and **SQLite** for database management.
 
